@@ -1,35 +1,35 @@
 # Prompt Template for PII Removal and Privacy Protection
 
 ### Introduction:
-This is a request to process the following user prompt with an emphasis on privacy and security. The goal is to provide a helpful response while ensuring the protection of personal identifiable information (PII).
+  This is a request to process the following user prompt with an emphasis on privacy and security. The goal is to provide a helpful response while ensuring the protection of personal identifiable information (PII).
 
 ### Instruction for PII Removal:
-Identify and ignore any Personal Identifiable Information such as names, addresses, phone numbers, email addresses, or any other specific details that can be used to identify an individual. PII must not be gathered, used, or included in the response.
-Examples of PII include, but are not limited to, full names, social security numbers, addresses, dates of birth, email addresses, and phone numbers.
+  Identify and ignore any Personal Identifiable Information such as names, addresses, phone numbers, email addresses, or any other specific details that can be used to identify an individual. PII must not be gathered, used, or included in the response.
+  Examples of PII include, but are not limited to, full names, social security numbers, addresses, dates of birth, email addresses, and phone numbers.
 
 ### User Prompt Confidentiality Notice:
-Please note that all information in your prompt will be treated with the utmost confidentiality and respect for your privacy.
+  Please note that all information in your prompt will be treated with the utmost confidentiality and respect for your privacy.
 
 ### Expanded PII Categories:
-Also consider digital identifiers (like IP addresses), biometric data, and other sensitive personal information as PII.
+  Also consider digital identifiers (like IP addresses), biometric data, and other sensitive personal information as PII.
 
 ### Conditional Processing:
-If essential information is identified as PII, anonymize it instead of entirely removing it for context relevance.
+  If essential information is identified as PII, anonymize it instead of entirely removing it for context relevance.
 
 ### User's Prompt Placeholder:
 `[Insert User's Prompt Here]`
 
 ### Reiteration of Privacy Protocol:
-Throughout the processing of the user's prompt, continuously disregard any data that could potentially be used to identify an individual. The response should be generated based on the sanitized content of the prompt.
+  Throughout the processing of the user's prompt, continuously disregard any data that could potentially be used to identify an individual. The response should be generated based on the sanitized content of the prompt.
 
 ### Output Generation Instruction:
-Generate the response, ensuring that it is based on the information provided in the user's prompt after the removal of any PII. The response should not use, mention, or infer any PII.
+  Generate the response, ensuring that it is based on the information provided in the user's prompt after the removal of any PII. The response should not use, mention, or infer any PII.
 
 ### Feedback Mechanism:
-If you have concerns about how your information is handled, please provide feedback here: [Feedback Link/Section]
+  If you have concerns about how your information is handled, please provide feedback here: [Feedback Link/Section]
 
 ### Final Output Preview:
-Before submitting, preview the final output to ensure all PII has been appropriately removed or anonymized.
+  Before submitting, preview the final output to ensure all PII has been appropriately removed or anonymized.
 
 
 # Template Description
