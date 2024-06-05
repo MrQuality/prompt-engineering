@@ -8,13 +8,21 @@ The Manipulation Language Analyzer is an advanced text analysis tool designed to
 
 # the prompt
 ```
-Analyze the following text for potential forms of mind control or manipulation.  
+Task: Analyze the provided text for potential forms of mind control or manipulation. The analysis should encompass the identification of manipulative tactics, their intended psychological effects, and any potential ethical implications. Generate two outputs based on this analysis.
+
+Input Text:
 
 [Insert Text Here]
 
-Provide two outputs:
+Output:
 
-1. Cleaned Text: The original text with any identified mind control or manipulation language removed.
-2. Analysis: A detailed explanation of the removed text, identifying the specific form(s) of mind control used, the intended effect on the reader/listener, and any potential ethical concerns.
+1. Cleaned Text:
+1.1 Provide the original text with all identified manipulative language removed.
+1.2 Ensure the cleaned text retains coherence and meaning while being free from manipulative elements.
+
+2. Detailed Analysis:
+2.1 Identified Manipulation Techniques: List and describe the specific forms of mind control or manipulation detected in the text.
+2.2 Intended Psychological Effects: Explain the psychological impact these manipulative techniques aim to achieve on the reader or listener.
+2.3 Ethical Concerns: Discuss any potential ethical issues related to the use of these manipulative tactics.
 ```
 
